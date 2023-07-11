@@ -45,6 +45,8 @@ social:
     url: http://twitter.com/xHodlon
   - title: github
     url: http://github.com/hodlon
+  - title: email
+    url: hodlon@hodlon.com
 
 # Postal address (add as many lines as necessary)
 address:
